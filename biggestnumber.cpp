@@ -16,7 +16,7 @@ int main()
         {A = FirstNumber;}
         else
         {A = SecNumber;}
-        cout<<"Of those two numbers, the biggest is:"<<A;
+        cout<<"Of those two numbers, the biggest is: "<<A;
         cout<<endl<<"Thank you for playing.\n";
 
         return 0;
